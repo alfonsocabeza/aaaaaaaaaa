@@ -5,3 +5,6 @@ data2/*
 /config
 *.dat
 !/*.dat
+/Main.class
+/User.java
+/passwords.dat
