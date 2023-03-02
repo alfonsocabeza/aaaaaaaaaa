@@ -1,0 +1,6 @@
+echo off
+cls
+md CiclosFormativos/gradomedio/SMR CilosFormativos/GradoSuperior/ASIR CiclosFormativos/GradoSuperior/DAM
+pause
+echo Fin del programa
+exit
